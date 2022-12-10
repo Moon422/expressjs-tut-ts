@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Moon422/expressjs-tut-ts/issues"
   },
-  "homepage": "https://github.com/Moon422/expressjs-tut-ts#readme"
+  "homepage": "https://github.com/Moon422/expressjs-tut-ts#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
